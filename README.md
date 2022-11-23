@@ -1,4 +1,3 @@
-<!---
-ykgwrcs/ykgwrcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Links
+- [AtCoder](https://atcoder.jp/users/ykgwrcs)
+- [Twitter](https://twitter.com/ykgwrcs)
